@@ -1,0 +1,8 @@
+R0 = 0, 35, 0
+U0 = 0, 0.01603233479
+rmax = 30
+Ntau = 50000
+tauf = 27500
+method = Radau
+rtol = 1e-12
+atol = 1e-14

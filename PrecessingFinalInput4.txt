@@ -1,0 +1,7 @@
+R0 = 0,21,0
+U0 = 0, 0.04810250213
+Ntau = 100000
+tauf = 99000
+method = Radau
+rtol = 1e-12
+atol = 1e-14

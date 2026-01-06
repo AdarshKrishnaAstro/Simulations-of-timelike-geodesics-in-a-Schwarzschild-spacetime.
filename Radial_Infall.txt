@@ -1,0 +1,9 @@
+#M=5
+R0 = 0, 100, 0
+U0 = -0.15, 0
+Ntau = 2000
+tauf = 1000
+rmax = 30
+method = Radau
+rtol = 1e-10
+atol = 1e-14
