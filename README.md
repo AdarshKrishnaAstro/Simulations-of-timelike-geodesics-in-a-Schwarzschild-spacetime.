@@ -1,6 +1,8 @@
 # Simulations-of-timelike-geodesics-in-a-Schwarzschild-spacetime.
 This is a repository allowing the simulations of timelike geodesics in Schwarzschild Spacetime. Sample input data is provided for Precessing, Stable-Circular and Radially falling inward trajectories for massive particles. Please be mindful of the units.
 
----README---
-Schwarzschild Blackholes are simplest and easiest to study in the blackhole zoo. The units in the code used are in Geometrised units and appropriate conversions are to be performed earlier to obtain desired results. This is an extension of a pre-existing work(https://github.com/TobyWoodcock/Black_hole_project) into a more generalised case. This code uses the same mathematical tools as the earlier mentioned work. 
+---README---  
+
+Schwarzschild Blackholes are simplest and easiest to study in the blackhole zoo. The units in the code used are in Geometrised units and appropriate conversions are to be performed earlier to obtain desired results. This is an extension of a pre-existing work(https://github.com/TobyWoodcock/Black_hole_project) into a more generalised case. This code uses the same mathematical tools as the earlier mentioned work.  
+
 The python file "Project_Main_Code_No_Comments.py" contains the source code for the project. The different input files maybe used to observe Precessing, Stable-Circular and Radially falling inward trajectories for an arbitrary particle of  mass 100 units in the vicinity of an arbitrary blackhole of mass 5 units. Additionally the code also incorporates the amount of precession(if any) and the amount of time taken to reach the event horizon along with a label of the event horizon is also available.
